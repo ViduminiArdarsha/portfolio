@@ -1,3 +1,4 @@
+'Use Client'
 import { BiDownload } from "react-icons/bi";
 
 function navbar(){
