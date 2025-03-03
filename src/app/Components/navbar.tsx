@@ -7,8 +7,8 @@ export const Navbar = () => {
   return (
     <section className="bg-white px-20">
                 <nav className="py-8 mb-10 flex justify-between">
-                  <h2 className="py-3">Vidumini's Portfolio</h2>
-                    <ul className="flex justify-between px-15 py-3 gap-10 cursor-pointer text-primary">
+                  <h2 className="py-3 font-medium">Vidumini's Portfolio</h2>
+                    <ul className="flex justify-between px-15 py-3 gap-10 cursor-pointer text-secondary">
                       <li>Home</li>
                       <li>About</li>
                       <li>Projects</li>

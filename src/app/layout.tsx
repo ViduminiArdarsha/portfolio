@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import {Montserrat} from "next/font/google";
 import "./globals.css";
 
-const montserrat = Montserrat({
+const openSans = Montserrat({
   subsets: ["latin"],
 });
 
@@ -17,7 +17,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={montserrat.className}>
+    <html lang="en" className={openSans.className}>
       <body>
         {children}
       </body>
