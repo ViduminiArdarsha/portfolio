@@ -1,21 +1,13 @@
-import useSWR from "swr";
 import Navbar from "./Components/navbar";
-import EduCard from "./Components/EduCard";
-import HeadSection from "./Components/HeadSection";
-import { BiPhoneCall } from "react-icons/bi";
 import AboutMe from "./Components/AboutMe";
-
+import HeadSection from "./Components/HeadSection";
 
 export default function Home() {
   return (
     <>
- 
-      <title>My Portfolio</title>
-
      <Navbar/>
      <HeadSection/>
-     <AboutMe/>
-      
+     <AboutMe/> 
     </>
     
   );
