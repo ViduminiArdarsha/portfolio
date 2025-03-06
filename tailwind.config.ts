@@ -8,10 +8,12 @@ export default {
   ],
   theme: {
     extend: {
-      colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
-      },
+      colors:{
+        primary:"#FFF",
+        secondary:"#333",
+        accent:"hsl(211, 100%, 50%)",
+        accentone:"hsl(211, 78%, 98%)"
+      }
     },
   },
   plugins: [],

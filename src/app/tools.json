@@ -1,0 +1,118 @@
+[
+    {
+        "id":"1",
+        "image":[
+            {
+                "src":"/ToolImages/figma.png",
+                "alt":"Figma"
+            }
+            
+        ],
+        "name":"Figma"
+    },
+
+    {
+        "id":"2",
+        "image":[
+            {
+                "src":"/ToolImages/figma.png",
+                "alt":"Next JS"
+            }
+            
+        ],
+        "name":"Next JS"
+    },
+
+    {
+        "id":"3",
+        "image":[
+            {
+                "src":"/ToolImages/figma.png",
+                "alt":"Reactnative"
+            }
+            
+        ],
+        "name":"Reactnative"
+    },
+    {
+        "id":"4",
+        "image":[
+            {
+                "src":"/ToolImages/figma.png",
+                "alt":"Postman"
+            }
+            
+        ],
+        "name":"Postman"
+    },
+    
+    {
+        "id":"5",
+        "image":[
+            {
+                "src":"/ToolImages/figma.png",
+                "alt":"Tailwind CSS"
+            }
+            
+        ],
+        "name":"Tailwind CSS"
+    },
+    {
+        "id":"6",
+        "image":[
+            {
+                "src":"/ToolImages/figma.png",
+                "alt":"Bootstrap"
+            }
+            
+        ],
+        "name":"Bootstrap"
+    },
+    {
+        "id":"7",
+        "image":[
+            {
+                "src":"/ToolImages/figma.png",
+                "alt":"Android Studio"
+            }
+            
+        ],
+        "name":"Android Studio"
+    },
+    {
+        "id":"8",
+        "image":[
+            {
+                "src":"/ToolImages/figma.png",
+                "alt":"Arduino IDE"
+            }
+            
+        ],
+        "name":"Arduino IDE"
+    },
+    {
+        "id":"9",
+        "image":[
+            {
+                "src":"/ToolImages/figma.png",
+                "alt":"Selenium"
+            }
+            
+        ],
+        "name":"Selenium"
+    },
+    {
+        "id":"10",
+        "image":[
+            {
+                "src":"/ToolImages/figma.png",
+                "alt":"Test NG"
+            }
+            
+        ],
+        "name":"Test NG"
+    }
+    
+    
+    
+]
