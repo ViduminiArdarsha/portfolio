@@ -6,8 +6,8 @@ const EduCard = () => {
     
 
   return ( 
-     <div className="text-center p-10 shadow-lg mt-10">
-       <div className='flex flex-row gap-3 justify-center'>
+     <div className="bg-accentone border-accentone border-[2px] text-center p-10 shadow-sm mt-10 rounded-3xl">
+       <div className='flex flex-row gap-4 justify-center'>
           <BiAward className='text-accent text-4xl'/>
           <h2 className='text-accent font-medium text-3xl pb-10'>Education</h2>
        </div>

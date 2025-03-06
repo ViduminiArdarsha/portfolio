@@ -1,6 +1,6 @@
-import Navbar from "./Components/navbar";
-import AboutMe from "./Components/AboutMe";
-import HeadSection from "./Components/HeadSection";
+import Navbar from "./MainComponenets/navbar";
+import AboutMe from "./MainComponenets/AboutMe";
+import HeadSection from "./MainComponenets/HeadSection";
 
 export default function Home() {
   return (

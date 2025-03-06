@@ -11,7 +11,8 @@ export default {
       colors:{
         primary:"#FFF",
         secondary:"#333",
-        accent:"#007BFF"
+        accent:"hsl(211, 100%, 50%)",
+        accentone:"hsl(211, 78%, 98%)"
       }
     },
   },

@@ -1,0 +1,39 @@
+[
+    {
+        "id":"1",
+        "image":[
+            {
+                "src":"/IBM.jpeg",
+                "alt":"IBM Logo"
+            }
+        ],
+        "time":"Feb 2025 - Present",
+        "title":"IBM Generative AI: Promt Engineering",
+        "company":"IBM"
+    },
+
+    {
+        "id":"2",
+        "image":[
+            {
+                "src":"/google.jpg",
+                "alt":"Google Logo"
+            }
+        ],
+        "time":"Mar 2024 - Feb 2025",
+        "title":"Google UX Design Professional Certificate",
+        "company":"Google"
+    },
+    {
+        "id":"3",
+        "image":[
+            {
+                "src":"/BCS.png",
+                "alt":"BCS Logo"
+            }
+        ],
+        "time":"Dec 2020 - May 2021",
+        "title":"BCS Certificate in IT",
+        "company":"British Computer Society"
+    }
+]
