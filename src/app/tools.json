@@ -15,7 +15,7 @@
         "id":"2",
         "image":[
             {
-                "src":"/ToolImages/figma.png",
+                "src":"/ToolImages/nextjs.png",
                 "alt":"Next JS"
             }
             
@@ -27,7 +27,7 @@
         "id":"3",
         "image":[
             {
-                "src":"/ToolImages/figma.png",
+                "src":"/ToolImages/reactnative.svg",
                 "alt":"Reactnative"
             }
             
@@ -38,7 +38,7 @@
         "id":"4",
         "image":[
             {
-                "src":"/ToolImages/figma.png",
+                "src":"/ToolImages/postman.png",
                 "alt":"Postman"
             }
             
@@ -50,7 +50,7 @@
         "id":"5",
         "image":[
             {
-                "src":"/ToolImages/figma.png",
+                "src":"/ToolImages/tailwind.png",
                 "alt":"Tailwind CSS"
             }
             
@@ -61,7 +61,7 @@
         "id":"6",
         "image":[
             {
-                "src":"/ToolImages/figma.png",
+                "src":"/ToolImages/bootstrap.png",
                 "alt":"Bootstrap"
             }
             
@@ -72,7 +72,7 @@
         "id":"7",
         "image":[
             {
-                "src":"/ToolImages/figma.png",
+                "src":"/ToolImages/androidStudio.png",
                 "alt":"Android Studio"
             }
             
@@ -83,7 +83,7 @@
         "id":"8",
         "image":[
             {
-                "src":"/ToolImages/figma.png",
+                "src":"/ToolImages/arduinoIDE.png",
                 "alt":"Arduino IDE"
             }
             
@@ -94,7 +94,7 @@
         "id":"9",
         "image":[
             {
-                "src":"/ToolImages/figma.png",
+                "src":"/ToolImages/selenium.png",
                 "alt":"Selenium"
             }
             
@@ -105,7 +105,7 @@
         "id":"10",
         "image":[
             {
-                "src":"/ToolImages/figma.png",
+                "src":"/ToolImages/testNg.jpg",
                 "alt":"Test NG"
             }
             

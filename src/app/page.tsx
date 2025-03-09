@@ -6,13 +6,11 @@ export default function Home() {
   return (
 
     <>
-     <Navbar/>
+     {/* <Navbar/> */}
      <HeadSection/>
      <AboutMe/> 
     </>
-    
-=======
-    <></>
+
 
   );
 }
