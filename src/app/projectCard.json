@@ -1,0 +1,38 @@
+[
+    {
+        "id":"1",
+        "image":[
+            {
+                "src":"/projectImages/first.png",
+                "alt":"kiddoz"
+
+            }
+        ],
+        "name":"KIDDOZ",
+        "description":"A website for buying and reselling kids clothing items."
+    },
+    {
+        "id":"2",
+        "image":[
+            {
+                "src":"/projectImages/first.png",
+                "alt":"kiddoz"
+
+            }
+        ],
+        "name":"KIDDOZ",
+        "description":"A website for buying and reselling kids clothing items."
+    },
+    {
+        "id":"3",
+        "image":[
+            {
+                "src":"/projectImages/first.png",
+                "alt":"kiddoz"
+
+            }
+        ],
+        "name":"KIDDOZ",
+        "description":"A website for buying and reselling kids clothing items."
+    }
+]
