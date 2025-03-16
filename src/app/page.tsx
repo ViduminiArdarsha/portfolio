@@ -8,7 +8,7 @@ export default function Home() {
 
     <>
      {/* <Navbar/> */}
-     <HeadSection/>
+     {/* <HeadSection/> */}
      <Projects/>
      <AboutMe/> 
     </>

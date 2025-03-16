@@ -2,6 +2,7 @@
 import React from "react";
 import Image from "next/image";
 import Details from "../projectCard.json";
+import Link from "next/link";
 
 const Projects = () => {
   return (
@@ -12,7 +13,7 @@ const Projects = () => {
             Projects
           </h3>
         </div>
-
+      <Link href="../ProjectData">
         <div className="grid lg:grid-cols-3 gap-3 justify-center">
         {Details.map((data) => {
           return (
@@ -29,7 +30,7 @@ const Projects = () => {
           );
         })}
         </div>
-        
+        </Link> 
       </section>
     </>
   );
