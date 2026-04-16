@@ -1,0 +1,20 @@
+[
+    {
+        "id":"1",
+        "mainTitle":"Kiddoz",
+        "subTitle":"Mobile App and Website for buying and Reselling Kids Clothing Items.",
+        "project":[
+            {
+                "topic":"Problem",
+                "content":"dfbdhfhdgfegfyeafyeygf",
+                "Image":[
+                    {   
+                        "id":"1",
+                        "src":"/projectImages/first.png",
+                        "alt":"image"
+                    }
+                ]
+            }
+        ]
+    }
+]

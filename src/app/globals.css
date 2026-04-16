@@ -8,6 +8,16 @@
     src: url('../public/static/Nunito-VariableFont_wght.ttf');
 } */
 
+:root {
+  --white-primary: #fafafa;
+  --black-accent: #0f0f0f;
+}
+
+body {
+  background-color: var(--white-primary);
+  color: var(--black-accent);
+}
+
 
 
 

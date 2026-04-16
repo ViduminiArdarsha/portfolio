@@ -1,7 +1,7 @@
 import React from "react";
-import EduCard from "../Components/EduCard";
-import CertCard from "../Components/CertCard";
-import Tool from "../Components/Tool";
+import EduCard from "../components/EduCard";
+import CertCard from "../components/CertCard";
+import Tool from "../components/Tool";
 
 const AboutMe = () => {
   return (

@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "project-1",
+    "project_name": "Abbey Atsuko",
+    "subHeading": "3D hologramic AI Assistant",
+    "githubUrl": "https://github.com/your-username/project-4",
+    "heroImage": {
+      "src": "/projectImages/abbey1.png",
+      "alt": "Project Name 4 preview"
+    },
+
+    "introduction": "Abbey Atsuko is an innovative AI-driven holographic assistant created for the Department of Computer Science at the University of Sri Jayewardenepura. It serves as a modern bridge between traditional academic information systems and cutting-edge human-computer interaction. Unlike standard chatbots that rely on text interfaces, this project introduces a 3D personality that users can speak to directly. The system was developed to transform how students and faculty interact with department resources, moving toward a more natural conversational experience.",
+    "problem": "Navigating university resources can often be a frustrating and time-consuming experience for both new and existing students. Traditional methods, such as searching through static websites or waiting for office hours, often lack the speed and accessibility required in a fast-paced academic environment. Many students struggle to find specific information regarding lecture halls, faculty availability, or cafeteria menus in real-time. Existing digital solutions are usually text-heavy and fail to provide an engaging or intuitive user experience. This lack of interaction often leads to low engagement with digital tools that are meant to help the student body. Abbey Atsuko was designed to solve these friction points by providing an immediate, interactive, and visually present assistant that answers questions instantly.",
+    "tech_stack": [
+      "Next.js",
+      "Raspberry Pi 5",
+      "OpenAI Real-Time API",
+      "WebRTC",
+      "Adobe Fuse & Blender"
+    ],
+    "methodology": [
+      {
+        "step": "3D Character Design and Animation",
+        "explanation": "The process began by creating a custom 3D model using Adobe Fuse to give the assistant a friendly and professional appearance. This model was then rigged and animated using Mixamo to ensure fluid and natural movements during interactions. Finally, Blender was used to render the character in four different directions, which is essential for creating the holographic visual effect."
+      },
+      {
+        "step": "Real-time Communication Architecture",
+        "explanation": "To ensure the assistant could respond without delay, we built the core web application using Next.js and integrated the OpenAI Real-Time API. We used WebRTC technology to handle high-speed audio streaming, allowing the user and the AI to have a natural, back-and-forth conversation. This setup ensures that the voice interaction feels instantaneous and mimics a real human discussion."
+      },
+      {
+        "step": "Hardware Construction and Integration",
+        "explanation": "The hardware was built around a Raspberry Pi 5, which provides the necessary processing power to run the web interface and handle media. We constructed a physical holographic pyramid using transparent plastic sheets to project the 3D character as a floating image. This pyramid reflects the screen content in a way that creates a 360-degree visual experience for the user standing in front of it."
+      },
+      {
+        "step": "AI Persona and Logic Configuration",
+        "explanation": "To make the assistant helpful, we implemented the RISEN framework to define its role, instructions, and tone. This involved fine-tuning the AI's prompt to ensure it provides accurate information about department schedules, faculty locations, and cafeteria menus. The logic was carefully tested to ensure the assistant remains polite, concise, and focused on university-related queries."
+      }
+    ],
+    "challenges": [
+      {
+        "sub_topic": "Performance and Framework Transition",
+        "explanation": "Initially, the project was started using Python, but we encountered significant lag and performance issues when handling real-time animations. To solve this, we migrated the entire system to Next.js, which allowed for much smoother rendering and better management of the WebRTC audio streams. This transition was crucial for achieving the low-latency interaction required for a conversational AI."
+      },
+      {
+        "sub_topic": "Hardware Stability and Thermal Management",
+        "explanation": "The Raspberry Pi 5 experienced frequent freezing and performance drops due to the high processing demands of real-time AI and 3D rendering. We addressed this by updating the system firmware and optimizing the operating system to reduce background resource usage. Additionally, we improved the physical cooling setup to prevent thermal throttling during long periods of operation."
+      },
+      {
+        "sub_topic": "Material Reflection and Visual Clarity",
+        "explanation": "Finding the right material for the holographic pyramid was difficult, as many plastics caused the image to look blurry or double-visioned. After testing several options, we discovered that high-transparency plastic binding covers provided the best balance of reflection and clarity. This choice ensured that the 3D character appeared sharp and visible even in normal indoor lighting conditions."
+      }
+    ],
+    "future_work": "The project is planned to evolve by integrating a Retrieval-Augmented Generation (RAG) system to provide more precise and academic-specific data. We aim to implement advanced lip-syncing technology so the 3D character's mouth movements perfectly match the AI's generated speech in real-time. Another major goal is to expand the knowledge base to cover the entire University of Sri Jayewardenepura campus rather than just one department. We are also looking into adding gesture recognition so users can interact with the hologram using hand movements instead of just voice. Future updates will focus on reducing latency further to make the conversation feel as natural as talking to a person in real life. These improvements will ensure the system remains a relevant and powerful tool for the entire student community.",
+    "conclusion": "Abbey Atsuko demonstrates the immense potential of combining AI and holography to improve the daily lives of university students. By moving away from traditional screen-based interfaces, this project paves the way for more immersive and human-like digital assistants in public spaces. It showcases the technical capability of using modern web frameworks like Next.js alongside specialized hardware like the Raspberry Pi 5. The project has successfully met its goals of making department information more accessible while providing a unique interactive experience. As technology continues to advance, systems like this will likely become a standard part of educational infrastructure worldwide. This project stands as a significant milestone in our journey toward creating smarter and more engaging campus environments."
+  }
+]
