@@ -1,4 +1,6 @@
 import Section from "@/app/components/Section";
+import CertCard from "../components/CertCard";
+import Image from "next/image";
 
 export default function AboutPage() {
   return (
@@ -31,11 +33,7 @@ export default function AboutPage() {
       </Section>
 
       <Section title="Certifications">
-        <div className="grid grid-cols-2 gap-6">
-          {Array.from({ length: 4 }).map((_, i) => (
-            <div key={i} className="bg-gray-200 h-24" />
-          ))}
-        </div>
+        <CertCard/>
       </Section>
 
       <Section title="Skills">
@@ -49,16 +47,22 @@ export default function AboutPage() {
       </Section>
 
       <Section title="Achievements">
-        <div className="grid grid-cols-2 gap-8">
+        <div className="grid grid-cols-2 justify-between mt-8">
           <div>
-            <h3 className="font-medium text-sm mb-2">
-              Finalists of the UI/UX Designathon
+            <h3 className="font-semibold text-md mb-2">
+              Finalists - DHACK 24 Designathon 
             </h3>
-            <p className="text-xs text-gray-600">
-              Selected as finalists in the UI/UX design competition...
+            <p className="text-md text-gray-600 mt-4">
+              Selected as finalists in the UI/UX design competition.
             </p>
           </div>
-          <div className="bg-gray-200 h-40" />
+          <Image 
+            src="/competition.jpeg" 
+            alt="DHACK 24 Designathon" 
+            width={400} 
+            height={100}
+            className="rounded-md object-cover"
+          />
         </div>
       </Section>
     </>

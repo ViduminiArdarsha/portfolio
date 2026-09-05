@@ -1,0 +1,39 @@
+[
+  {
+    "skill": "AI, Machine Learning",
+    "techs": [
+      "LLMs",
+      "Gemini API",
+      "Ollama",
+      "NumPy",
+      "Pandas",
+      "Scikit-learn",
+      "OpenCV",
+      "TensorFlow"
+    ]
+  },
+  {
+    "skill": "Programming Languages",
+    "techs": ["Java", "Python", "C", "SQL", "PHP"]
+  },
+  {
+    "skill": "Frameworks & Libraries",
+    "techs": ["React.js", "Next.js", "Bootstrap", "Tailwind CSS", "Radix UI"]
+  },
+  {
+    "skill": "Web Technologies",
+    "techs": ["HTML", "CSS", "JavaScript", "REST APIs"]
+  },
+  {
+    "skill": "Databases & ORMs",
+    "techs": ["MySQL", "MongoDB", "Prisma ORM"]
+  },
+  {
+    "skill": "Automation & Tools",
+    "techs": ["n8n", "Git"]
+  },
+  {
+    "skill": "UI/UX Designing",
+    "techs": ["Figma"]
+  }
+]

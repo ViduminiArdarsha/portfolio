@@ -13,7 +13,7 @@ export default function HomePage() {
         </h1>
 
         <div className="flex gap-4 mt-8">
-          <Button>
+          <Button href="/CV.pdf" variant="primary" target="_blank">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               height="18px"
@@ -25,7 +25,7 @@ export default function HomePage() {
             </svg>
             View CV
           </Button>
-          <Button href="#">
+          <Button href="https://www.linkedin.com/in/vidumini-ardarsha" target="_blank" rel="noopener noreferrer">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               height="18px"

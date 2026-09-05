@@ -3,20 +3,44 @@
         "id":"1",
         "image":[
             {
-                "src":"/IBM.jpeg",
-                "alt":"IBM Logo"
+                "src":"/certimages/n8n1.png",
+                "alt":"n8n1 Logo"
             }
         ],
-        "time":"Feb 2025 - Present",
-        "title":"Data Analysis with Python",
-        "company":"IBM"
+        "time":"Jan 2026",
+        "title":"n8n Course Level 1",
+        "company":"n8n"
     },
-
     {
         "id":"2",
         "image":[
             {
-                "src":"/google.jpg",
+                "src":"/certimages/n8n2.png",
+                "alt":"n8n2 Logo"
+            }
+        ],
+        "time":"Mar 2026",
+        "title":"n8n Course Level 2",
+        "company":"n8n"
+    },
+    {
+        "id":"3",
+        "image":[
+            {
+                "src":"/certimages/sololearn.png",
+                "alt":"Sololearn Logo"
+            }
+        ],
+        "time":"Jan 2026",
+        "title":"Agentic Workflows",
+        "company":"Sololearn"
+    },
+
+    {
+        "id":"4",
+        "image":[
+            {
+                "src":"/certimages/google.webp",
                 "alt":"Google Logo"
             }
         ],
@@ -25,14 +49,38 @@
         "company":"Google"
     },
     {
-        "id":"3",
+        "id":"5",
+        "image":[
+            {
+                "src":"/certimages/meta.webp",
+                "alt":"Meta Logo"
+            }
+        ],
+        "time":"Feb 2024",
+        "title":"Advanced MySQL Topics",
+        "company":"Meta"
+    },
+    {
+        "id":"6",
+        "image":[
+            {
+                "src":"/certimages/livecollege.png",
+                "alt":"Live College Logo"
+            }
+        ],
+        "time":"Jun 2021",
+        "title":"Advanced Web Development Certificate",
+        "company":"Live College"
+    },
+    {
+        "id":"7",
         "image":[
             {
                 "src":"/BCS.png",
                 "alt":"BCS Logo"
             }
         ],
-        "time":"Dec 2020 - May 2021",
+        "time":"May 2021",
         "title":"BCS Certificate in IT",
         "company":"British Computer Society"
     }
